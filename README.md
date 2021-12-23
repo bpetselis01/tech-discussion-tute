@@ -13,3 +13,7 @@ Tutorial (Notes) for technical discussions
 
 ## Colab Link
 * [Notebook](https://github.com/bpetselis01/tech-discussion-tute/blob/215229a7243e64e57852fcb771f0b7209f8a1f87/technical_docs.ipynb)
+
+## Image
+* Create an Issue & drag the image you want into the box
+<img width="242" alt="Screenshot 2021-12-23 at 10 54 35 PM" src="https://user-images.githubusercontent.com/96581802/147256970-f70b1a6c-f651-4686-b9e0-e7e86cae87e8.png">
